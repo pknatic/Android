@@ -1,2 +1,1 @@
-# Distancxe Convert
-## Distancxe Convert Km to Meters, Centimeters, inches, Feet.
+# Android Studio All projects Created By [Pknatic](https://github.com/pknatic).
