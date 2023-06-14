@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Testing</string>
+    <string name="image">image</string>
+    <string name="intro">By-Pknatic</string>
 </resources>
