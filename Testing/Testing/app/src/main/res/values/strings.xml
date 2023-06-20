@@ -1,5 +1,22 @@
 <resources>
     <string name="app_name">Testing</string>
     <string name="image">image</string>
+    <string name="but">Submit</string>
     <string name="intro">By-Pknatic</string>
+    <string name="content">Keywords and functions are different components in programming languages:
+
+Keywords: Keywords are reserved words in a programming language that have predefined meanings and are used for specific purposes. These words cannot be used as variable names or identifiers because they are already assigned a specific meaning by the language. Examples of keywords in C include if, else, while, int, float, return, and so on. Keywords are part of the language syntax and are used to define control structures, data types, and other language-specific constructs.
+
+Functions: Functions, on the other hand, are blocks of code that perform a specific task or operation. They are reusable code segments that can be called from different parts of a program. Functions encapsulate a series of instructions and often accept input parameters and produce output results. They allow for code modularity, organization, and reusability. In C, functions are typically defined with a return type, a name, a set of parameters (optional), and a function body that contains the code to be executed when the function is called.
+
+In summary, keywords are predefined reserved words in a programming language with specific meanings, while functions are blocks of code that perform a specific task and are called from different parts of a program. Keywords are part of the languages syntax, while functions are reusable code segments that can be defined and called by the programmer.
+    In C, float and double are both floating-point data types used to represent real numbers with decimal points. However, they differ in terms of precision and storage size:
+
+Precision: float is a single-precision floating-point type that typically occupies 4 bytes of memory. It provides approximately 6 decimal digits of precision. On the other hand, double is a double-precision floating-point type that typically occupies 8 bytes of memory. It offers significantly higher precision, providing around 15 decimal digits.
+
+Range: Due to its larger size, double can represent a wider range of values compared to float. float can handle numbers ranging from approximately 1.2 x 10^(-38) to 3.4 x 10^38, while double can represent values from approximately 2.2 x 10^(-308) to 1.8 x 10^308.
+
+Memory Usage: As mentioned earlier, float occupies 4 bytes of memory, while double occupies 8 bytes. This means that double requires more memory to store its values compared to float.
+
+When choosing between float and double, consider the required precision and the range of values your program needs to handle. If you need higher precision or a broader range, double is typically a better choice. However, if memory usage is a concern or the required precision is relatively low, float can be more efficient.</string>
 </resources>
