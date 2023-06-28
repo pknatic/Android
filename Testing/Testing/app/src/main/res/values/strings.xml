@@ -4,6 +4,11 @@
     <string name="image">image</string>
     <string name="Button">button</string>
     <string name="Sub">Submit</string>
+    <string name="First_Name">First Name</string>
+    <string name="Last_name">Last Name</string>
+    <string name="Email">Email</string>
+    <string name="Mobile">Mobile No.</string>
     <string name="Successfully">Successfully</string>
+
 
 </resources>
