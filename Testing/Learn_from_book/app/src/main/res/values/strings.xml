@@ -3,6 +3,42 @@
     <string name="by">pknatic</string>
     <string name="button">Submit</string>
     <string name="text_1">This is my text view</string>
+    <string-array name="list_of_items">
+        <item>Think and Grow Rich</item>
+        <item>The 7 Habits of Highly Effective People</item>
+        <item>Man’s Search for Meaning </item>
+        <item>The Alchemist</item>
+        <item>The Power of Positive Thinking</item>
+        <item>You Can Heal Your Life</item>
+        <item>How to Win Friends and Influence People</item>
+        <item>The Compound Effect – Jumpstart Your Income, Your Life, Your Success</item>
+        <item>The One Thing – The Surprisingly Simple Truth Behind Extraordinary Results</item>
+        <item>Mindset: The New Psychology of Success</item>
+        <item>Drive: The Surprising Truth About What Motivates Us by Daniel Pink</item>
+        <item>Finish What You Start: The Art of Following Through, Taking Action, Executing, And Self-Discipline (Live a Disciplined Life) by Peter Hollins</item>
+        <item>Master Your Motivation: A Practical Guide to Unstick Yourself, Build Momentum and Sustain Long-Term Motivation by Thibaut Meurisse</item>
+        <item>Unfu*k Yourself: Get Out of Your Head and into Your Life by Gary John Bishop</item>
+        <item>The 5 Second Rule: Transform your Life, Work, and Confidence with Everyday Courage by Mel Robbins</item>
+        <item>The Magic of Thinking Big by David J. Schwartz</item>
+        <item>The ONE Thing: The Surprisingly Simple Truth About Extraordinary Results by Gary Keller and Jay Papasan</item>
+        <item>Think and Grow Rich</item>
+        <item>The 7 Habits of Highly Effective People</item>
+        <item>Man’s Search for Meaning </item>
+        <item>The Alchemist</item>
+        <item>The Power of Positive Thinking</item>
+        <item>You Can Heal Your Life</item>
+        <item>How to Win Friends and Influence People</item>
+        <item>The Compound Effect – Jumpstart Your Income, Your Life, Your Success</item>
+        <item>The One Thing – The Surprisingly Simple Truth Behind Extraordinary Results</item>
+        <item>Mindset: The New Psychology of Success</item>
+        <item>Drive: The Surprising Truth About What Motivates Us by Daniel Pink</item>
+        <item>Finish What You Start: The Art of Following Through, Taking Action, Executing, And Self-Discipline (Live a Disciplined Life) by Peter Hollins</item>
+        <item>Master Your Motivation: A Practical Guide to Unstick Yourself, Build Momentum and Sustain Long-Term Motivation by Thibaut Meurisse</item>
+        <item>Unfu*k Yourself: Get Out of Your Head and into Your Life by Gary John Bishop</item>
+        <item>The 5 Second Rule: Transform your Life, Work, and Confidence with Everyday Courage by Mel Robbins</item>
+        <item>The Magic of Thinking Big by David J. Schwartz</item>
+        <item>The ONE Thing: The Surprisingly Simple Truth About Extraordinary Results by Gary Keller and Jay Papasan</item>
+    </string-array>
 
 
 
